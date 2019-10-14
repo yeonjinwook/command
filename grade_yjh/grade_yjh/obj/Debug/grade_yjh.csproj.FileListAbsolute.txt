@@ -1,0 +1,7 @@
+c:\users\duswl\source\repos\grade_yjh\grade_yjh\bin\Debug\grade_yjh.exe.config
+c:\users\duswl\source\repos\grade_yjh\grade_yjh\bin\Debug\grade_yjh.exe
+c:\users\duswl\source\repos\grade_yjh\grade_yjh\bin\Debug\grade_yjh.pdb
+c:\users\duswl\source\repos\grade_yjh\grade_yjh\obj\Debug\grade_yjh.csprojAssemblyReference.cache
+c:\users\duswl\source\repos\grade_yjh\grade_yjh\obj\Debug\grade_yjh.csproj.CoreCompileInputs.cache
+c:\users\duswl\source\repos\grade_yjh\grade_yjh\obj\Debug\grade_yjh.exe
+c:\users\duswl\source\repos\grade_yjh\grade_yjh\obj\Debug\grade_yjh.pdb
