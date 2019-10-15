@@ -1,0 +1,6 @@
+c:\users\duswl\source\repos\과제1\과제1\bin\Release\과제1.exe.config
+c:\users\duswl\source\repos\과제1\과제1\bin\Release\과제1.exe
+c:\users\duswl\source\repos\과제1\과제1\bin\Release\과제1.pdb
+c:\users\duswl\source\repos\과제1\과제1\obj\Release\과제1.csproj.CoreCompileInputs.cache
+c:\users\duswl\source\repos\과제1\과제1\obj\Release\과제1.exe
+c:\users\duswl\source\repos\과제1\과제1\obj\Release\과제1.pdb
